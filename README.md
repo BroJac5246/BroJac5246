@@ -4,4 +4,4 @@
 
 🌱 I’m currently learning Kotlin!
 
-📫 You can always reach me on scratch, I'm @jbthepig
+📫 You can always reach me on Scratch, I'm @jbthepig
