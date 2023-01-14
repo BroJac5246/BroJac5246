@@ -2,6 +2,6 @@
 
 👀 I love coding. I know basic HTML, CSS, and JS.
 
-🌱 I’m currently learning Kotlin!
+🌱 I’m currently ~~learning Kotlin!~~ **attempting to learn Kotlin but fighting with Android Studio**
 
-📫 You can always reach me on Scratch, I'm @jbthepig
+📫 You can always reach me on Scratch, I'm [@jbthepig](https://scratch.mit.edu/users/jbthepig)
