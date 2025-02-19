@@ -1,6 +1,6 @@
 👋 Hi, I’m [@BroJac5246](https://github.com/BroJac5246/)!
 
-👀 I love coding. I'm low-to-moderately familiar with HTML, CSS, JavaScript, and Python, plus I know basic Java and Kotlin.
+👀 I love coding. I'm reasonably familiar with Java, HTML, CSS, and JavaScript, plus I know basic Python.
 
 🌱 I’m currently ~~learning Kotlin!~~ ~~_attempting to learn Kotlin but fighting with Android Studio_~~ **learning Kotlin for real this time!**
 
